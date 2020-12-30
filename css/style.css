@@ -1,0 +1,177 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.title_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 800 !important;
+	color: darkblue;
+}
+
+.title_divider_ajcl{
+	border-width: thick;
+	width: 40%;
+}
+
+
+.colab_btn_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 400 !important;
+	color: #5DCCAC !important;
+	border-color: #5DCCAC !important;
+}
+.colab_btn_ajcl:hover{
+	background-color: #5DCCAC !important;
+	color:white !important;
+}
+
+.socio_btn_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 400 !important;
+	color: darkblue !important;
+	border-color: darkblue !important;
+}
+.socio_btn_ajcl:hover{
+	background-color: darkblue !important;
+	color:white !important;
+}
+
+.btn_grande_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 600 !important;
+	text-align: center !important;
+	font-size: 30px !important;
+	border-radius: 10px !important;
+}
+
+.boldtext_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 600 !important;
+	font-size: 30px;
+}
+
+.plaintext_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 400 !important;
+	font-size: 30px;
+}
+
+.plaintext_enfasis_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 600 !important;
+	font-size: inherit;
+	color: midnightblue;
+}
+
+.importanttext_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 400 !important;
+	font-size: 35px;
+	color: midnightblue;
+}
+
+.importanttext_enfasis_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 800 !important;
+	font-size: 40px;
+	color: darkblue;
+}
+
+.importanttext_small_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 400 !important;
+	font-size: 20px;
+	color: midnightblue;
+	text-align: center;
+}
+
+.bullet_ajcl{
+	width: 25px;
+	float: left;
+	margin: 0px 10px 30px 0px;
+}
+
+.main_container_ajcl{
+	margin: 10px 0 10px 0;
+}
+
+.container_divider_ajcl{
+	margin: 40px 0 40px 0;
+	text-align: center;
+}
+
+.img_divider_ajcl{
+	height: 45px;
+}
+
+.horizontal_scroll_ajcl{
+	overflow-y: hidden; 
+	overflow-x: auto;
+	width: auto;
+	height: 200px;
+	padding: 10px;
+	white-space: nowrap;
+}
+
+.horizontal_blocks_ajcl{
+	width: 100px;
+	height: 200px;
+	margin: 0 30px 0 30px;
+	padding: 0;
+	display: inline-block;
+}
+
+.img_circular_ajcl{
+	border-radius: 100%;
+	margin-bottom: 20px;
+	width: 100%;
+	margin: auto;
+}
+
+.max_btn_ajcl{
+	width: 46%;
+	margin: 10px 2% 20px 2% !important;
+	border-radius: 20px !important;
+	padding: 50px 3% 50px 3% !important;
+	font-family: 'Baloo 2', cursive;
+	font-weight: 800 !important;
+	font-size: calc(1.5vw + 10px) !important;
+	color: midnightblue !important;
+	border-color: white !important;
+	float: left;
+}
+
+.bold_btn_text_ajcl{
+	font-size: calc(2.5vw + 10px) !important;
+}
+
+.max_btn_ajcl:hover{
+	color: white !important;
+	background-color: midnightblue !important;
+}
+
+#bottom_container_ajcl{
+	height: 300px;
+	width: 100%;
+	padding: 20px 2%;
+	background-color: midnightblue;
+	color: white;
+}
+
+#bottom_info_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 600 !important;
+	text-align: left;
+	font-size: 20px;
+}
+
+#iit_info_ajcl{
+	font-family: 'Baloo 2', cursive;
+	font-weight: 400 !important;
+	text-align: right;
+	font-size: 20px;
+}
+
+
+
+
+
