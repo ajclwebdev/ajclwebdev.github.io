@@ -171,6 +171,49 @@
 	font-size: 20px;
 }
 
+#aniversario_ajcl{
+	font-size: 200px;
+}
+
+#aniversario_texto_ajcl{
+	font-size: 70px; 
+	margin-top: -50px;
+}
+
+@media only screen and (max-width: 600px) {
+  .boldtext_ajcl{
+		font-size: 15px;
+	}
+
+	.plaintext_ajcl{
+		font-family: 'Baloo 2', cursive;
+		font-weight: 400 !important;
+		font-size: 15px;
+	}
+	.title_ajcl{
+		font-size: 25px !important;
+	}
+	#aniversario_ajcl{
+		font-size: 80px !important;
+		margin-top: 50px;
+	}
+	#aniversario_texto_ajcl{
+		font-size: 25px; 
+		margin-top: -20px;
+	}
+	.importanttext_ajcl{
+		font-size: 20px;
+	}
+	.importanttext_enfasis_ajcl{
+		font-size: 25px;
+	}
+	.importanttext_small_ajcl{
+		font-size: 20px;
+	}
+	.btn_grande_ajcl{
+		font-size: 20px !important;
+	}
+}
 
 
 
