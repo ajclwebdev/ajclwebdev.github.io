@@ -100,7 +100,7 @@
 }
 
 .img_divider_ajcl{
-	height: 45px;
+	max-height: 45px;
 }
 
 .horizontal_scroll_ajcl{
